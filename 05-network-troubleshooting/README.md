@@ -40,7 +40,7 @@ nmcli connection show
 ### Step 4 — Test Internet Connectivity
 
 ```bash
-ping -c 4 8.8.8.8
+ping -c 4 example.com
 ```
 
 ### Step 5 — Test DNS Resolution
